@@ -7,6 +7,8 @@ setlocale(LC_CTYPE, "ja_JP.UTF-8");
 ```
 Visual C++を使う場合は、コンパイルオプションに`/utf-8`を付けてください。
 
+[JSON for Modern C++](https://github.com/nlohmann/json)をインクルードしています。
+
 JSON形式のデータを用意する必要があります。
 1. ブラウザでKivodleを開く
 1. F12を押して開発者ツールを開きコンソールタブを選ぶ
